@@ -1,2 +1,2 @@
 # Futureyes
-https://juanfranp19.github.io/futureyes/views/es/
+https://hector-6660.github.io/FuturEyes/views/es/
